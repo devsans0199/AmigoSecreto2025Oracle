@@ -19,4 +19,4 @@ El reto consiste en una página web donde se pueden ingresar los nombres de los 
 1. Clona este repositorio a tu máquina local:
 
    ```bash
-   git clone https://github.com/tu_usuario/amigo-secreto.git
+   git clone https://github.com/devsans0199/AmigoSecreto2025Oracle.git
